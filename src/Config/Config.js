@@ -1,4 +1,4 @@
-const URL =  'http://localhost:8080';
+const URL =  'https://netflix-style-spa.herokuapp.com';
 
 export default{
     URL,
